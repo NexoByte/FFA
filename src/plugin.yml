@@ -1,0 +1,7 @@
+name: FFA
+author: NexoByte
+version: 0.1
+main: me.nexobyte.ffa.FFA
+commands:
+  setSpawn:
+  build:
